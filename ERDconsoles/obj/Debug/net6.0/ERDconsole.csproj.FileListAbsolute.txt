@@ -1,0 +1,15 @@
+C:\japhetDEVTRAINING\ERDconsole\bin\Debug\net6.0\ERDconsole.exe
+C:\japhetDEVTRAINING\ERDconsole\bin\Debug\net6.0\ERDconsole.deps.json
+C:\japhetDEVTRAINING\ERDconsole\bin\Debug\net6.0\ERDconsole.runtimeconfig.json
+C:\japhetDEVTRAINING\ERDconsole\bin\Debug\net6.0\ERDconsole.dll
+C:\japhetDEVTRAINING\ERDconsole\bin\Debug\net6.0\ERDconsole.pdb
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.csproj.AssemblyReference.cache
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.AssemblyInfoInputs.cache
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.AssemblyInfo.cs
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.csproj.CoreCompileInputs.cache
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.dll
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\refint\ERDconsole.dll
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.pdb
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ERDconsole.genruntimeconfig.cache
+C:\japhetDEVTRAINING\ERDconsole\obj\Debug\net6.0\ref\ERDconsole.dll
